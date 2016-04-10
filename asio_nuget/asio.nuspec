@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>asio</id>
+	<title>asio 1.10.6</title>
+    <version>1.10.6</version>
+    <authors>Scott Lee</authors>
+    <owners>Scott Lee</owners>
+    <licenseUrl>http://think-async.com/</licenseUrl>
+    <projectUrl>http://think-async.com/</projectUrl>
+    <iconUrl>http://think-async.com/asio/overview.gif</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach. </description>
+    <summary>Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.</summary>
+
+    <releaseNotes>LibJpeg-Turbo</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>asio native C++ v120 windesktop dyn rt-dyn msvcstl static v140 Android GCC Clang armeabi armeabi-v7a arm64-v8a mips mips64 </tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
